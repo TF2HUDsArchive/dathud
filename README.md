@@ -14,4 +14,4 @@
 ![Ubercharge](../screenshots/05_Ubercharge.jpg)
 ![Scoreboard](../screenshots/06_Scoreboard.jpg)
 ![Win & Damage](../screenshots/07_Win.jpg)
-![Spectator](../screenshots/07_Spectator.png)
+![Spectator](../screenshots/08_Spectator.png)
